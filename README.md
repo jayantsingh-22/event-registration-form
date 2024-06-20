@@ -15,6 +15,7 @@ A responsive and dynamic event registration form built with React.js. The form i
 - **Vercel**: For deployment and hosting.
 
 ## Custom Hooks
+
 - **useForm**: A custom hook for managing form state, handling input changes, and validating form data.
 - **useGuest**: A custom hook for managing guest state and handling guest-related logic.
 
@@ -28,21 +29,21 @@ A responsive and dynamic event registration form built with React.js. The form i
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/your-repository-name.git
-    ```
+   git clone https://github.com/jayantsingh-22/event-registration-form
+   ```
 2. **Navigate to the project directory**:
-    ```sh
-    cd your-repository-name
-    ```
+   ```sh
+   cd your-repository-name
+   ```
 3. **Install dependencies**:
-    ```sh
-    npm install
-    or 
-    yarn install
-    ```
+   ```sh
+   npm install
+   or
+   yarn install
+   ```
 4. **Run the application**:
-    ```sh 
-    npm start
-    or
-    yarn start
-    ```
+   ```sh
+   npm start
+   or
+   yarn start
+   ```
